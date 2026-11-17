@@ -1,4 +1,4 @@
-# GOLAZO LOCO – fútbol arcade 1 vs 1 online (versión 0.1 jugable)
+# CHAPAS LOCAS – fútbol arcade 1 vs 1 online (versión 0.1 jugable)
 ## Ejecutar en local
     npm install && npm start      # http://localhost:3000
 Abre dos pestañas/ordenadores: uno pulsa CREAR SALA, el otro escribe el código y UNIRSE. Ambos pulsan ¡LISTO!, el anfitrión (👑) pulsa EMPEZAR.
